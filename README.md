@@ -1,6 +1,6 @@
 # English-E-Learning-Web-Application
 
-Screen Shots 
+Screenshots 
 
 ![1](https://user-images.githubusercontent.com/69207728/135724489-b997770a-caa1-4ccd-aba3-4ca333d4ff11.png)
 
